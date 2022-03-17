@@ -1,0 +1,11 @@
+~/.az-dev-env-setup/app/
+~/.az-dev-env-setup/app/runtime/
+~/.az-dev-env-setup/app/history/
+~/.az-dev-env-setup/app/state/
+~/.az-dev-env-setup/.tempfile/
+~/.az-dev-env-setup/.tempfile/downloads
+~/.az-dev-env-setup/data/
+~/.az-dev-env-setup/data/system
+~/.az-dev-env-setup/data/user
+~/.az-dev-env-setup/data/app
+~/.az-dev-env-setup/data/logs
