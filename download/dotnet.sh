@@ -1,6 +1,6 @@
 # default dir
 rtdir=pwd
-targetdir=""
+targetdir=get_temp_dir
 
 # linux
 
@@ -20,3 +20,6 @@ while read p; do
 done < ${txtfile}
 
 # Windows
+
+cd ${rtdir}
+pwd
